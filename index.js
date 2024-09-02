@@ -1,3 +1,4 @@
+//function add will return a number and takes the argument as string
 function add(numbers) {
     if (numbers === "") {
         return 0;
